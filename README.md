@@ -1,6 +1,6 @@
 # Pit-thon
  
-Pit thon is small python prograss
+Pit thon is small python projects
 so small that can run on mobiles 
 
 calculator.py - 1.0
