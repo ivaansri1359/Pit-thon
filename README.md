@@ -7,4 +7,3 @@ calculator.py - 1.0
 snake.py - 1.0
 textedit.py - 1.1
 ping pong.py - 1.0
-iphonesim.py - 1.0
